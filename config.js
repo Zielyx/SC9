@@ -1,21 +1,21 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-// MAKASIHLAH KE BANG ZENZ :)
+// MAKASIHLAH KE BANG ZIELYX :)
 global.APIs = {
-	zenz: 'https://zenzapis.xyz',
+	zielyx: '-',
 }
 
 // HMM UDAH FREE DECK
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sonelstore',
+	'-': 'sonelstore',
 }
 
 // NAMBAH BOLEH HAPUS JANGAN -_-
-global.owner = ['6281511480762']
-global.premium = ['621511480762']
-global.packname = 'AzzBot√'
-global.author = 'AzzBot-MD'
+global.owner = ['6285773914826']
+global.premium = ['6285773914826']
+global.packname = 'YxxilBot√'
+global.author = 'Zielyx-MD'
 global.sessionName = 'Xavior'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
